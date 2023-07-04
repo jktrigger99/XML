@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AcquiredSkills>
+	<skill>Bash commands and simple scripts</skill>
+	<skill>Git and GitHub</skill>
+	<skill>Test design technique</skill>
+	<skill>Client-server architectire</skill>
+	<skill>API testing with Postman</skill>
+	<skill>Writing test documentation</skill>
+	<skill>Web and mobile testing (DevTools)</skill>
+	<skill>Charles and Fiddler"</skill>
+	<skill>SQL</skill>
+	<skill>JMeter</skill>
+	<skill>Developing simple mobile apps with Xcode/Android Studio</skill>
+</AcquiredSkills>
