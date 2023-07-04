@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bugReport>
+  <Title>(Heisenbug) App Store is opened on any instrument's page when clicking button [Add to Favourite] / [View Detailed Chart] / [Notification (bell)] / [Sell] / [Buy] / [Start Trading] (at the widget "Trading Calculator") / [Trade Now] (at the widget "Single Market")</Title>
+  <Precondition>the user is authorized</Precondition>
+  <StepsToReproduce>
+    <step>1. Navigate to capital.com</step>
+    <step>2. Click menu section [Markets]</step>
+    <step>3. Scroll down to the widget "We offer one-click trading experience with 3,700+ world-renowned markets."</step>
+    <step>4. Click on any instrument's link</step>
+    <step>5. Click button [Add to Favourite] / [View Detailed Chart] / [Notification (bell)] / [Sell] / [Buy] / [Start Trading] (at the widget "Trading Calculator") / [Trade Now] (at the widget "Single Market")</step>
+  </StepsToReproduce>
+  <ExpectedResult>Trading Platform is opened</ExpectedResult>
+  <ActualResult>App Store is opened</ActualResult>
+  <Severity>Major</Severity>
+  <Environment>Windows 11 Chrome 114</Environment>
+  <Attachments>link</Attachments>
+</bugReport>
